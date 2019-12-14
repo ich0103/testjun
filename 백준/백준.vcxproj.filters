@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\알고리즘">
+      <UniqueIdentifier>{a7b844b2-fabe-4a24-aaa1-d443932ed19a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\시뮬레이션">
+      <UniqueIdentifier>{6043056c-d894-4b45-a36e-8a119b7f5cfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\200제">
+      <UniqueIdentifier>{396c0baf-3474-4da8-9ec0-2ee5dedde27c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기초">
+      <UniqueIdentifier>{053f999b-7613-4995-a855-3bfb0e257110}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2133.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2193.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10844.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UnionFind알고리즘.cpp">
+      <Filter>소스 파일\알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="크루스칼알고리즘.cpp">
+      <Filter>소스 파일\알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="머지소트.cpp">
+      <Filter>소스 파일\알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="우선순위큐.cpp">
+      <Filter>소스 파일\알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="힙정렬.cpp">
+      <Filter>소스 파일\알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2455.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1094.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="14499_fail.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="14503_fail.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1966_Fail.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1080.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="3190.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1057.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1021.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="소스2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="덱.cpp">
+      <Filter>소스 파일\알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="142.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="141.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="155.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="079.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="080.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="131.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="132.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="133.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="166.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="14891.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="06-01.Summation.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-02.count.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-03.average.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-04.FindMax.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-05.swap.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-06.오름차순정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-07.내림차순정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-08.버블정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-09.선택정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-10.삽입정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-11.쉘정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-12.칵테일정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-15.행을기준으로회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-16.열을기준으로회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-17.오른쪽으로90도회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-18.오른쪽으로 180도 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-19.오른쪽으로 270도 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-20.선택된 특정 열만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-21.선택된 특정 행만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-22.짝수 열만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-23.홀수 행만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-24.회오리형으로 데이터 채워넣기.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-25.채우기1.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-26.채우기2.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-27.채우기3.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-28.채우기4.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-29.채우기5.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="06-30.채우기6.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-01.Summation.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-02.count.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-03.average.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-04.FindMax.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-05.swap.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-06.오름차순정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-07.내림차순정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-08.버블정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-09.선택정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-10.삽입정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-11.쉘정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-12.칵테일정렬.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-15.행을기준으로회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-16.열을기준으로회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-17.오른쪽으로90도회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-18.오른쪽으로 180도 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-19.오른쪽으로 270도 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-20.선택된 특정 열만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-21.선택된 특정 행만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-22.짝수 열만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-23.홀수 행만 회전.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-24.회오리형으로 데이터 채워넣기.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-25.채우기1.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-26.채우기2.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-27.채우기3.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-28.채우기4.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-29.채우기5.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="07-30.채우기6.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="14890.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="3055.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1547.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="15685.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="104.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="105.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="106.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="107_default생성자.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="108_생성자초기화리스트.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="109_클래스소멸자 정의하기.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="110_동적메모리할당.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="111_static 클래스 이해하기.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="112_정보은닉.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="113_캡슐화.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="2164.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="145_pair.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="146_tuple_1.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="147_tuple_2.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="148_tuple_3.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="149_tuple_4.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="150_tuple_4.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="152_vector_1.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="153_vector_2.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="154_vector_3.cpp">
+      <Filter>소스 파일\200제</Filter>
+    </ClCompile>
+    <ClCompile Include="5532_방학숙제.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="2161_카드1.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="5397.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
